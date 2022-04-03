@@ -6,7 +6,6 @@
     "plugin:react-hooks/recommended",
     "plugin:@typescript-eslint/recommended",
     "plugin:ramda/recommended",
-    "plugin:react-redux/recommended",
     "next",
     "plugin:react/recommended",
     "plugin:prettier/recommended"
@@ -19,7 +18,6 @@
     "react-hooks",
     "simple-import-sort",
     "ramda",
-    "react-redux",
     "prettier"
   ],
 
